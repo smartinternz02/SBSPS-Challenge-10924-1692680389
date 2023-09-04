@@ -7,7 +7,7 @@
 <p>Team Name:Foursome</p>
 # Team Members
 
-<a href="https://www.linkedin.com/in/muvvala-sai-sruthi-789aa224a/">@Sruthi</a>
+<a href="https://github.com/Muvvala-Sruthi">@Sruthi</a>
 <a href="https://www.linkedin.com/in/tanmayee-paduchuru-115330244/">@Tanmayee</a>
 <a href="https://www.linkedin.com/in/lahari-takkasila-813718238">@Lahari</a>
 <a href="https://www.linkedin.com/in/meesala-kavya-sree-aa2307285/">@Kavya</a>
